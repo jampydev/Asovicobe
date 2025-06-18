@@ -5,37 +5,48 @@
 document.addEventListener('DOMContentLoaded', () => {
 
 
+    
 
     // Base de datos de Jampier (NO editable)
     const jampierDatabase = [
+        
 
         { 
+            
             day: "DOMINGO", 
             date: "1 de junio de 2025", 
             time: "De 7 AM a 9 PM", 
             completed: true,
             isJampier: true  // Identificador
+            
         },
+        
 
 
         { 
+            
             day: "LUNES - FESTIVO", 
             date: "2 de junio de 2025", 
             time: "De 7 AM a 9 PM", 
             completed: true,
             isJampier: true
+            
         },
 
 
+        
         { 
+            
             day: "SABADO", 
             date: "7 de junio de 2025", 
             time: "De 1 PM a 9 PM", 
             completed: true,
             isJampier: true
+            
         },
 
 
+        
          { 
             day: "DOMINGO", 
             date: "8 de junio de 2025", 
@@ -57,6 +68,8 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
 
+
+        
              { 
                  
             day: "DOMINGO", 
@@ -64,6 +77,19 @@ document.addEventListener('DOMContentLoaded', () => {
             time: "De 7 AM a 9 PM", 
             completed: true,
             isJampier: true
+                 
+        },
+        
+
+
+          { 
+                 
+            day: "MIÉRCOLES", 
+            date: "18 de junio de 2025", 
+            time: "De 5:30 PM a 9 PM", 
+            completed: true,
+            isJampier: true
+              
         },
         
 
