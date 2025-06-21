@@ -91,7 +91,18 @@ document.addEventListener('DOMContentLoaded', () => {
             isJampier: true
               
         },
+
         
+          { 
+              
+            day: "SABADO", 
+            date: "21 de junio de 2025", 
+            time: "De 2 PM a 9 PM", 
+            completed: true,
+            isJampier: true
+           
+        },
+
 
 
     ];
