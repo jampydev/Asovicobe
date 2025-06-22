@@ -117,6 +117,17 @@ document.addEventListener('DOMContentLoaded', () => {
         
 
 
+  { 
+            
+            day: "LUNES - FESTIVO", 
+            date: "23 de junio de 2025", 
+            time: "De 7 AM a 9 PM", 
+            completed: true,
+            isJampier: true
+            
+        },
+
+        
         
 
 
