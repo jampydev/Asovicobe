@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             day: "JUEVES", 
             date: "26 de junio de 2025", 
-            time: "De 5:30 AM a 9 PM", 
+            time: "De 5:30 PM a 9 PM", 
             completed: true,
             isJampier: true
             
