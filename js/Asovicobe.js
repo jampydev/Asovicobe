@@ -151,6 +151,40 @@ document.addEventListener('DOMContentLoaded', () => {
         
 
 
+
+
+
+
+ { 
+            
+            day: "DOMINGO", 
+            date: "29 de junio de 2025", 
+            time: "De 7 AM a 9 PM", 
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+        
+
+
+
+  { 
+            
+            day: "LUNES - FESTIVO", 
+            date: "30 de junio de 2025", 
+            time: "De 7 AM a 9 PM", 
+            completed: true,
+            isJampier: true
+            
+        },
+
+
+
+
+
+
+
+
     ];
 
 
