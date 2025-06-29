@@ -181,6 +181,18 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
+  { 
+            
+            day: "TERMINADO...", 
+           
+
+        
+        },
+
+
+
+
+
 
 
 
