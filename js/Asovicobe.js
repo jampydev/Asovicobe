@@ -13,153 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         { 
             
-            day: "DOMINGO", 
-            date: "1 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-        
-
-
-        { 
-            
-            day: "LUNES - FESTIVO", 
-            date: "2 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true
-            
-        },
-
-
-        
-        { 
-            
-            day: "SABADO", 
-            date: "7 de junio de 2025", 
-            time: "De 1 PM a 9 PM", 
-            completed: true,
-            isJampier: true
-            
-        },
-
-
-        
-         { 
-            day: "DOMINGO", 
-            date: "8 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true
-        },
-
-
-
-
-       { 
-            day: "SABADO", 
-            date: "14 de junio de 2025", 
-            time: "De 12 PM a 9 PM", 
-            completed: true,
-            isJampier: true
-           
-        },
-
-
-
-        
-             { 
-                 
-            day: "DOMINGO", 
-            date: "15 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true
-                 
-        },
-        
-
-
-          { 
-                 
-            day: "MIÉRCOLES", 
-            date: "18 de junio de 2025", 
-            time: "De 5:30 PM a 9 PM", 
-            completed: true,
-            isJampier: true
-              
-        },
-
-        
-          { 
-              
-            day: "SABADO", 
-            date: "21 de junio de 2025", 
-            time: "De 2 PM a 9 PM", 
-            completed: true,
-            isJampier: true
-           
-        },
-
-
-
- { 
-            
-            day: "DOMINGO", 
-            date: "22 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-        
-
-
-  { 
-            
-            day: "LUNES - FESTIVO", 
-            date: "23 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true
-            
-        },
-
-
-
-        { 
-            
-            day: "JUEVES", 
-            date: "26 de junio de 2025", 
-            time: "De 5:30 PM a 9 PM", 
-            completed: true,
-            isJampier: true
-            
-        },
-
-
-         { 
-            day: "SABADO", 
-            date: "28 de junio de 2025", 
-            time: "De 1 PM a 9 PM", 
-            completed: true,
-            isJampier: true
-           
-        },
-        
-
-
-
-
-
-
- { 
-            
-            day: "DOMINGO", 
-            date: "29 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
+            day: "#", 
+            date: "#", 
+            time: "#", 
             completed: true,
             isJampier: true  // Identificador
             
@@ -168,27 +24,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-  { 
+
+  //{ 
             
-            day: "LUNES - FESTIVO", 
-            date: "30 de junio de 2025", 
-            time: "De 7 AM a 9 PM", 
-            completed: true,
-            isJampier: true
-            
-        },
-
-
-
-
-  { 
-            
-            day: "TERMINADO...", 
-            date: "TERMINADO...",
-            time: "TERMINADO...",
+            //day: "TERMINADO...", 
+            //date: "TERMINADO...",
+            //time: "TERMINADO...",
 
         
-        },
+        //}, 
+
 
 
 
