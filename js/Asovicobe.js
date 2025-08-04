@@ -10,69 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Base de datos de Jampier (NO editable)
     const jampierDatabase = [
         
-
         { 
             
             day: "SÁBADO", 
-            date: "5 De julio 2025", 
-            time: "2PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-        
-  { 
-            
-            day: "DOMINGO", 
-            date: "13 De julio 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-        
-
-
-  { 
-            
-            day: "VIERNES", 
-            date: "18 De julio 2025", 
-            time: "5AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-
-           { 
-            
-            day: "SÁBADO", 
-            date: "19 De julio 2025", 
-            time: "2PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "20 De julio 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-        
-
-
-            { 
-            
-            day: "SÁBADO", 
-            date: "26 De julio 2025", 
+            date: "2 De Agosto 2025", 
             time: "1PM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
@@ -83,12 +24,13 @@ document.addEventListener('DOMContentLoaded', () => {
           { 
             
             day: "DOMINGO", 
-            date: "27 De julio 2025", 
+            date: "3 De Agosto 2025", 
             time: "7AM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
             
         },
+        
 
   //{ 
             
