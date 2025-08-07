@@ -30,6 +30,19 @@ document.addEventListener('DOMContentLoaded', () => {
             isJampier: true  // Identificador
             
         },
+
+
+
+ { 
+            
+            day: "JUEVES", 
+            date: "7 De Agosto 2025", 
+            time: "7AM a 9PM", 
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
         
 
   //{ 
