@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
  { 
             
-            day: "JUEVES", 
+            day: "JUEVES - FESTIVO", 
             date: "7 De Agosto 2025", 
             time: "7AM a 9PM", 
             completed: true,
