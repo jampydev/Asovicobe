@@ -135,18 +135,45 @@ document.addEventListener('DOMContentLoaded', () => {
         
 
 
-        
 
         
-
-  //{ 
+        { 
             
-            //day: "TERMINADO...", 
-            //date: "TERMINADO...",
-            //time: "TERMINADO...",
+            day: "SÁBADO", 
+            date: "30 De Agosto 2025", 
+            time: "1PM a 9PM", 
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
 
         
-        //}, 
+
+          { 
+            
+            day: "DOMINGO", 
+            date: "31 De Agosto 2025", 
+            time: "7AM a 9PM", 
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+        
+
+
+
+        
+
+        
+
+  { 
+            
+            day: "TERMINADO...", 
+            date: "TERMINADO...",
+            time: "TERMINADO...",
+
+        
+        }, 
 
 
 
