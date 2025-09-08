@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             
             day: "SÁBADO", 
-            date: "2 De Agosto 2025", 
+            date: "6 De Septiembre 2025", 
             time: "1PM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
           { 
             
             day: "DOMINGO", 
-            date: "3 De Agosto 2025", 
+            date: "7 De Septiembre 2025", 
             time: "7AM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
@@ -32,127 +32,9 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
 
-
- { 
-            
-            day: "JUEVES - FESTIVO", 
-            date: "7 De Agosto 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
+    
 
 
-
-
-   { 
-            
-            day: "SÁBADO", 
-            date: "9 De Agosto 2025", 
-            time: "1PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "10 De Agosto 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-
-
-
-
-
-   { 
-            
-            day: "SÁBADO", 
-            date: "16 De Agosto 2025", 
-            time: "1PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "17 De Agosto 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-
-   { 
-            
-            day: "LUNES - FESTIVO", 
-            date: "18 De Agosto 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-     
-
-
-
-        { 
-            
-            day: "SÁBADO", 
-            date: "23 De Agosto 2025", 
-            time: "1PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-        
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "24 De Agosto 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-        
-
-
-
-        
-        
-        
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "31 De Agosto 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-        
-
-
-        
 
 
     ];
