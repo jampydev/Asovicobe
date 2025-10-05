@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Marcar como completado
     window.toggleComplete = (index, isJampier) => {
         if (isJampier) {
-            showModal('❌ No puedes modificar ni eliminar estos datos de la base de Jampier.');
+            showModal('❌ No puedes modificar ni eliminar estos datos de la base de datos de Jampier.');
             return;
         }
         let userData = JSON.parse(localStorage.getItem('asovicobe_data')) || [];
