@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             
             day: "SÁBADO", 
-            date: "6 De Septiembre 2025", 
-            time: "1PM a 9PM", 
+            date: "4 De Octubre 2025", 
+            time: "11AM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
             
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
           { 
             
             day: "DOMINGO", 
-            date: "7 De Septiembre 2025", 
+            date: "5 De Octubre 2025", 
             time: "7AM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
@@ -33,68 +33,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     
-
-
-
-
-        { 
-            
-            day: "VIERNES", 
-            date: "19 De Septiembre 2025", 
-            time: "5PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-    
-        { 
-            
-            day: "SÁBADO", 
-            date: "20 De Septiembre 2025", 
-            time: "12PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "21 De Septiembre 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-
-
-
-
-   { 
-            
-            day: "SÁBADO", 
-            date: "27 De Septiembre 2025", 
-            time: "11PM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
-
-
-          { 
-            
-            day: "DOMINGO", 
-            date: "28 De Septiembre 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
 
 
 
