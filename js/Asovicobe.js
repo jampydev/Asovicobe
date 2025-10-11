@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     completed: true,
     isJampier: true,
     dayStyle: "color: #ff0000; font-weight: bold;"
-}
+};
 
 
 
