@@ -6,6 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
+    
+
 
 
     
@@ -19,6 +21,13 @@ function formatearDia(dia) {
 
 
 
+
+
+
+    
+
+
+    
     
 
     // Base de datos de Jampier (NO editable)
