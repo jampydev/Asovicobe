@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
     date: "5 De Octubre 2025", 
     time: "7AM a 9PM", 
     completed: true,
-    isJampier: true,
+    isJampier: true
     dayStyle: "color: #ff0000; font-weight: bold;"
 },
 
