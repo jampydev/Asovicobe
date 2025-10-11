@@ -8,8 +8,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
+    
 function formatearDia(dia) {
-    if (dia === "DOMINGO") {
+    const diasRojos = ["DOMINGO", "LUNES - FESTIVO"];
+    if (diasRojos.includes(dia)) {
         return `<span style="color: #ff0000; font-weight: bold;">${dia}</span>`;
     }
     return dia;
@@ -17,6 +19,7 @@ function formatearDia(dia) {
 
 
 
+    
 
     // Base de datos de Jampier (NO editable)
     const jampierDatabase = [
@@ -76,7 +79,7 @@ function formatearDia(dia) {
 
           { 
             
-            day: "DOMINGO", 
+            day: formatearDia("DOMINGO"), 
             date: "12 De Octubre 2025", 
             time: "7AM a 9PM", 
             completed: true,
@@ -91,7 +94,7 @@ function formatearDia(dia) {
         
           { 
             
-            day: "LUNES - FESTIVO", 
+            day: formatearDia("LUNES - FESTIVO"), 
             date: "13 De Octubre 2025", 
             time: "7AM a 9PM", 
             completed: true,
