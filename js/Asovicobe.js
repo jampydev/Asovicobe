@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     time: "7AM a 9PM", 
     completed: true,
     isJampier: true,
-    color: "#ff0000"
+    colorday: "#ff0000"
 },
 
 
