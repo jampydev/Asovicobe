@@ -5,7 +5,18 @@
 document.addEventListener('DOMContentLoaded', () => {
 
 
-    
+
+
+
+function formatearDia(dia) {
+    if (dia === "DOMINGO") {
+        return `<span style="color: #ff0000; font-weight: bold;">${dia}</span>`;
+    }
+    return dia;
+}
+
+
+
 
     // Base de datos de Jampier (NO editable)
     const jampierDatabase = [
@@ -25,13 +36,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 { 
-    day: "DOMINGO", 
+    day: formatearDia("DOMINGO"), 
     date: "5 De Octubre 2025", 
     time: "7AM a 9PM", 
     completed: true,
-    isJampier: true,
-    colorday: "#ff0000"
+    isJampier: true
 },
+
 
 
 
