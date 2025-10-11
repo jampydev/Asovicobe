@@ -21,17 +21,17 @@ document.addEventListener('DOMContentLoaded', () => {
         },
 
 
-          { 
-            
-            day: "DOMINGO", 
-            date: "5 De Octubre 2025", 
-            time: "7AM a 9PM", 
-            completed: true,
-            isJampier: true  // Identificador
-            
-        },
 
 
+
+ { 
+    day: "<span style='color: #ff0000; font-weight: bold;'>DOMINGO</span>", 
+    date: "5 De Octubre 2025", 
+    time: "7AM a 9PM", 
+    completed: true,
+    isJampier: true
+ }
+        
 
 
 
