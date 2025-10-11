@@ -32,6 +32,11 @@ function formatearDia(dia) {
 
     // Base de datos de Jampier (NO editable)
     const jampierDatabase = [
+
+
+
+
+
         
         { 
             
@@ -47,6 +52,10 @@ function formatearDia(dia) {
 
 
 
+
+
+        
+
 { 
     day: formatearDia("DOMINGO"), 
     date: "5 De Octubre 2025", 
@@ -55,6 +64,9 @@ function formatearDia(dia) {
     isJampier: true
 },
 
+
+
+        
 
 
 
@@ -71,6 +83,8 @@ function formatearDia(dia) {
 
 
 
+
+        
 
     
 
@@ -98,6 +112,9 @@ function formatearDia(dia) {
 
 
 
+
+
+        
 
 
         
