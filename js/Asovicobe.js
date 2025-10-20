@@ -136,7 +136,7 @@ function formatearDia(dia) {
             
             day: formatearDia("SABADO"),
             date: "18 De Octubre 2025", 
-            time: "11AM a 9PM", 
+            time: "1PM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
             
@@ -160,6 +160,44 @@ function formatearDia(dia) {
 
 
         
+
+
+
+
+
+
+        { 
+            
+            day: formatearDia("SABADO"),
+            date: "25 De Octubre 2025", 
+            time: "1PM a 9PM", 
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
+
+
+
+
+
+
+        
+
+{ 
+    day: formatearDia("DOMINGO"), 
+    date: "26 De Octubre 2025", 
+    time: "7AM a 9PM", 
+    completed: true,
+    isJampier: true
+},
+
+
+
+
+        
+
+
 
         
 
