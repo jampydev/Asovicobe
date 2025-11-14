@@ -106,6 +106,52 @@ function formatearDia(dia) {
 
 
 
+
+
+
+
+
+
+
+           { 
+            
+            day: formatearDia("SABADO"),
+            date: "15 De Octubre 2025", 
+            time: "11AM a 9PM", 
+            color: "red",
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
+//
+        
+        
+        
+
+{ 
+    day: formatearDia("DOMINGO"), 
+    date: "16 De Noviembre 2025", 
+    time: "7AM a 9PM", 
+    completed: true,
+    isJampier: true
+},
+
+
+
+
+           
+          { 
+            
+            day: formatearDia("LUNES - FESTIVO"), 
+            date: "17 De Noviembre 2025", 
+            time: "7AM a 9PM", 
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
+
         
 
 
